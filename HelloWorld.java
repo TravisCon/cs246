@@ -3,7 +3,6 @@
 class HelloWorld {
   public static void main(String[] args) {
     //Poop Test
-  	System.out.println("Testing....");
-    System.out.println("Hello Github World!");
+    System.out.println("Hello World!");
   }
 }
