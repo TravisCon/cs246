@@ -39,7 +39,7 @@
 
     <EditText
         android:maxLines="1"
-        android:inputType="text"
+        android:inputType="textCapWords"
         android:background="@drawable/back"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
@@ -50,7 +50,7 @@
 
     <EditText
         android:maxLines="1"
-        android:inputType="text"
+        android:inputType="numberDecimal"
         android:background="@drawable/back"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
@@ -61,7 +61,7 @@
 
     <EditText
         android:maxLines="1"
-        android:inputType="text"
+        android:inputType="numberDecimal"
         android:background="@drawable/back"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"

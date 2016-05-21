@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     Intent intent = new Intent(MainActivity.this, Results.class);
-                    String message = "Your favorite scripture is \n" +
+                    String message = "Your favorite scripture is:\n" +
                             ((EditText) findViewById(R.id.editBook)).getText().toString()
                             + " " +
                             ((EditText) findViewById(R.id.editChapter)).getText().toString()
